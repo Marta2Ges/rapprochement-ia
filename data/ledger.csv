@@ -1,0 +1,31 @@
+date,description,amount,reference
+2026-09-01,Loyer septembre,-4500.00,LOYER-2026-09
+2026-09-02,Paiement fournisseur Papeterie du Rhône,-5459.60,FA-1001
+2026-09-04,Paiement fournisseur Mobilier Bureau Sàrl,-2040.00,FA-1008
+2026-09-05,Encaissement client Atelier Cobalt,6793.70,FC-2012
+2026-09-05,Encaissement client Atelier Lumière,5087.50,FC-2001
+2026-09-05,Encaissement client Cabinet Vétérinaire du Parc,4664.90,FC-2011
+2026-09-05,Paiement fournisseur Énergie Genevoise Pro,-1768.30,FA-1004
+2026-09-09,Encaissement client Fleuriste Les Pivoines,933.20,FC-2009
+2026-09-09,Encaissement client Studio Pixel,8777.80,FC-2004
+2026-09-10,Encaissement client Cabinet Rive Droite,7608.55,FC-2002
+2026-09-11,Paiement fournisseur Logistique Lac Léman,-2004.80,FA-1011
+2026-09-12,Paiement fournisseur Imprimerie Mont-Blanc,-1497.70,FA-1003
+2026-09-12,Paiement fournisseur Télécom Arve,-707.60,FA-1009
+2026-09-13,Paiement fournisseur Nettoyage Express Sàrl,-2457.25,FA-1005
+2026-09-14,Paiement fournisseur Assurances Helvétia Plus,-5008.75,FA-1006
+2026-09-15,Encaissement client Café des Arts,8404.75,FC-2006
+2026-09-16,Paiement fournisseur Maintenance Technique SA,-1043.30,FA-1012
+2026-09-17,Paiement fournisseur Services Informatiques Léman,-4572.40,FA-1002
+2026-09-18,Paiement fournisseur Transports Jura,-4299.30,FA-1007
+2026-09-19,Encaissement client Agence Horizon,7334.35,FC-2007
+2026-09-19,Paiement fournisseur Comptoir des Fournitures,-3646.25,FA-1010
+2026-09-20,Encaissement client Librairie Saint-Antoine,6681.50,FC-2008
+2026-09-20,Paiement fournisseur Conseil & Gestion Sàrl,-2145.05,FA-1014
+2026-09-21,Encaissement client Garage du Salève,1958.05,FC-2010
+2026-09-21,Encaissement client Menuiserie Alpine,8194.90,FC-2005
+2026-09-22,Encaissement client Boutique du Lac,2245.25,FC-2003
+2026-09-22,Paiement fournisseur Matériel Pro Genève,-4733.55,FA-1013
+2026-09-25,Salaires septembre,-18500.00,SAL-2026-09
+2026-09-29,Paiement fournisseur Transports Jura,-1860.40,FA-1090
+2026-09-30,Paiement fournisseur Logistique Lac Léman,-742.15,FA-1091

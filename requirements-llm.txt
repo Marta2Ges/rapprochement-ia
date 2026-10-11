@@ -1,0 +1,2 @@
+# Optional: only needed for the --llm option. The core tool has no dependencies.
+anthropic>=0.40.0
