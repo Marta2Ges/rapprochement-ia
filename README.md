@@ -1,5 +1,7 @@
 # Rapprochement bancaire assisté par IA
 
+[![Tests](https://github.com/Marta2Ges/rapprochement-ia/actions/workflows/tests.yml/badge.svg)](https://github.com/Marta2Ges/rapprochement-ia/actions/workflows/tests.yml)
+
 Outil en ligne de commande (Python) qui compare un **relevé bancaire** et une **comptabilité**, rapproche automatiquement les opérations, classe chaque écart et l'explique en français.
 
 > Projet d'apprentissage et de portfolio, inspiré de mon expérience des réconciliations bancaires (investigation des suspens dans GTMatch). **Toutes les données sont synthétiques** : les entreprises sont fictives.
@@ -103,7 +105,7 @@ Les 29 tests couvrent chaque type d'écart, le parsing des formats suisses, la r
 
 ## Comment ce projet a été réalisé
 
-Ce projet a été conçu et écrit avec l'aide d'un assistant IA (Claude, d'Anthropic) ; je l'ai relu, exécuté et testé. C'est aussi une manière d'explorer le développement assisté par agents, tout en gardant la maîtrise de l'architecture et des décisions.
+Ce projet a été conçu et écrit avec l'aide d'un assistant IA (Claude, d'Anthropic) ; je l'ai relu, exécuté et testé, et je peux en expliquer la logique. Certaines modifications demandent encore de l'accompagnement : c'est aussi une manière d'apprendre et d'explorer le développement assisté par agents.
 
 ## Licence
 
