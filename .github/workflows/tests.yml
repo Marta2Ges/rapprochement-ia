@@ -1,0 +1,25 @@
+# Lance automatiquement les tests à chaque modification du dépôt (GitHub Actions).
+name: Tests
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Lancer les tests unitaires
+        run: python -m unittest -v
+
+      - name: Lancer l'outil sur les données d'exemple
+        run: python -m recon --bank data/bank_statement.csv --ledger data/ledger.csv --out output
